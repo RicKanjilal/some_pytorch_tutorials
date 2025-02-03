@@ -1,1 +1,1 @@
-*please open pytorch_tutorials directory
+**please open pytorch_tutorials directory
